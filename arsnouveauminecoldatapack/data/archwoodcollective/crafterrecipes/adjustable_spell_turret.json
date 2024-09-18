@@ -1,0 +1,16 @@
+{
+  "type" : "recipe",
+  "crafter": "mechanic_crafting",
+  "inputs": [
+    {
+        "id" : "ars_nouveau:basic_spell_turret",
+        "count": 1
+    }
+  ],
+  "result": {
+	  "id": "ars_nouveau:rotating_spell_turret",
+      "count": 1},
+  "intermediate" : "minecraft:air",
+  "research-id": "archwoodcollective:arsnouveau/arscraftingrecipes",
+  "min-building-level": 2
+}

@@ -1,0 +1,36 @@
+{
+  "type" : "recipe",
+  "crafter": "mechanic_crafting",
+  "inputs": [
+    {
+        "id" : "minecraft:glass",
+        "count": 2
+    },
+    {
+        "id" : "minecraft:gold_ingot",
+        "count": 2
+    },
+    {
+        "id" : "ars_nouveau:purple_archwood_log",
+        "count": 2
+    },
+    {
+        "id" : "ars_nouveau:manipulation_essence",
+        "count": 2
+    },
+    {
+        "id" : "ars_nouveau:source_gem",
+        "count": 8
+    },
+    {
+        "id" : "ars_nouveau:source_gem_block",
+        "count": 1
+    }
+  ],
+  "result": {
+	  "id": "ars_nouveau:enchanters_mirror",
+      "count": 1},
+  "intermediate" : "minecraft:air",
+  "research-id": "archwoodcollective:arsnouveau/arscraftingrecipes",
+  "min-building-level": 3
+}

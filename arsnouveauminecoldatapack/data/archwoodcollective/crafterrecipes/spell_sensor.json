@@ -1,0 +1,16 @@
+{
+  "type" : "recipe",
+  "crafter": "mechanic_crafting",
+  "inputs": [
+    {
+        "id" : "minecraft:sculk_sensor",
+        "count": 1
+    }
+  ],
+  "result": {
+	  "id": "ars_nouveau:spell_sensor",
+      "count": 1},
+  "intermediate" : "minecraft:air",
+  "research-id": "archwoodcollective:arsnouveau/arscraftingrecipes",
+  "min-building-level": 3
+}

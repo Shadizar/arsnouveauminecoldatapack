@@ -1,0 +1,22 @@
+{
+  "type" : "recipe",
+  "crafter": "mechanic_crafting",
+  "inputs": [
+    {
+        "id" : "ars_nouveau:magebloom_fiber",
+        "count": 1
+    },
+    {
+        "id" : "ars_nouveau:manipulation_essence",
+        "count": 1
+    },
+    {
+        "id" : "minecraft:bone_meal",
+        "count": 1
+    }
+  ],
+  "result":{
+	  "id": "ars_nouveau:runic_chalk",
+      "count": 1},
+  "intermediate" : "minecraft:air"
+}

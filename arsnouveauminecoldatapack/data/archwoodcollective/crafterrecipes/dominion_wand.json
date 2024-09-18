@@ -1,0 +1,24 @@
+{
+  "type" : "recipe",
+  "crafter": "mechanic_crafting",
+  "inputs": [
+    {
+        "id" : "minecraft:stick",
+        "count": 1
+    },
+    {
+        "id" : "minecraft:gold_ingot",
+        "count": 1
+    },
+    {
+        "id" : "ars_nouveau:source_gem",
+        "count": 10
+    }
+  ],
+  "result": {
+	  "id": "ars_nouveau:dominion_wand",
+      "count": 1},
+  "intermediate" : "minecraft:air",
+  "research-id": "archwoodcollective:arsnouveau/arscraftingrecipes",
+  "min-building-level": 2
+}

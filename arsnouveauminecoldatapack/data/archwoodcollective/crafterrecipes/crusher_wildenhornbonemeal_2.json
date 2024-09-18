@@ -1,0 +1,16 @@
+{
+  "type" : "recipe",
+  "crafter": "crusher_custom",
+  "inputs": [
+    {
+        "id" : "ars_nouveau:wilden_horn",
+        "count": 1
+    }
+  ],
+  "result": {
+	  "id": "minecraft:bone_meal",
+      "count": 5},
+  "intermediate" : "minecraft:air",
+  "research-id" : 
+    "archwoodcollective:arsnouveau/arsadvancedwildenprocessing"
+}

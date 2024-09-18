@@ -1,0 +1,32 @@
+{
+  "type" : "recipe",
+  "crafter": "mechanic_crafting",
+  "inputs": [
+    {
+        "id" : "minecraft:gold_block",
+        "count": 1
+    },
+    {
+        "id" : "minecraft:crossbow",
+        "count": 1
+    },
+    {
+        "id" : "ars_nouveau:source_gem_block",
+        "count": 1
+    },
+    {
+        "id" : "ars_nouveau:source_gem",
+        "count": 8
+    },
+    {
+        "id" : "ars_nouveau:manipulation_essence",
+        "count": 1
+    }
+  ],
+  "result": {
+	  "id": "ars_nouveau:spell_crossbow",
+      "count": 1},
+  "intermediate" : "minecraft:air",
+  "research-id": "archwoodcollective:arsnouveau/arscraftingrecipes",
+  "min-building-level": 2
+}

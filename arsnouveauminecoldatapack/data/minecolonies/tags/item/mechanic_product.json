@@ -1,0 +1,16 @@
+{
+"replace": false,
+"values": [
+    "ars_nouveau:potion_jar",
+    "ars_nouveau:agronomic_sourcelink",
+    "ars_nouveau:volcanic_sourcelink",
+    "ars_nouveau:mycelial_sourcelink",
+    "ars_nouveau:alchemical_sourcelink",
+    "ars_nouveau:enchanting_apparatus",
+    "ars_nouveau:magebloom_block",
+    "ars_nouveau:warp_scroll",
+    "ars_nouveau:vitalic_sourcelink",
+	"ars_nouveau:ritual_sanctuary",
+	"ars_nouveau:worn_notebook"
+  ]
+}

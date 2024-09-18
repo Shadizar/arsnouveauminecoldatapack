@@ -1,0 +1,24 @@
+{
+  "type" : "recipe",
+  "crafter": "fletcher_crafting",
+  "inputs": [
+    {
+        "id" : "minecraft:iron_chestplate",
+        "count": 1
+    },
+    {
+        "id" : "ars_nouveau:magebloom_fiber",
+        "count": 4
+    },
+    {
+        "id" : "ars_nouveau:source_gem",
+        "count": 8
+    }
+  ],
+  "result": {
+	  "id": "ars_nouveau:arcanist_robes",
+      "count": 1},
+  "intermediate" : "minecraft:air",
+  "research-id": "archwoodcollective:arsnouveau/arscraftingrecipes",
+  "min-building-level": 3
+}
