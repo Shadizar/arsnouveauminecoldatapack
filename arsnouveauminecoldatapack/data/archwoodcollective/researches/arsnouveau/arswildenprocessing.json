@@ -1,5 +1,5 @@
 {
-  "branch": "minecolonies:arsnouveau",
+  "branch": "archwoodcollective:arsnouveau",
   "name": "Ars Wilden Processing",
   "researchLevel": 1,
   "subtitle": "Unlocks processing wilden wings and horns into leather and bonemeal. Gated in research to prevent unintentional processing.",
@@ -8,7 +8,7 @@
     {
       "items":{
 		  "item": "ars_nouveau:source_gem",
-          "quantity": 4
+          "count": 4
 	  }
     }
   ]

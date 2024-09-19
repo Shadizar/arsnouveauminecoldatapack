@@ -1,5 +1,5 @@
 {
-  "branch": "minecolonies:arsnouveau",
+  "branch": "archwoodcollective:arsnouveau",
   "name": "Ars Crafting Recipes",
   "researchLevel": 1,
   "subtitle": "Unlocks automatically-learned Ars Nouveau crafting recipes. Really only exists to keep from cluttering your recipes if you are not doing an Ars Nouveau style. Adds several items to crafters, which can overwhelm low level crafters recipe quota.",
@@ -8,7 +8,7 @@
     {
       "items":{
 		  "item": "ars_nouveau:source_gem",
-          "quantity": 4
+          "count": 4
 	  }
     }
   ]

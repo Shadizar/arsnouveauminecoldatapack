@@ -1,5 +1,5 @@
 {
-  "branch": "minecolonies:arsnouveau",
+  "branch": "archwoodcollective:arsnouveau",
   "name": "Advanced Ars Wilden Processing",
   "parentResearch": "archwoodcollective:arsnouveau/arswildenprocessing",
   "researchLevel": 2,
@@ -9,7 +9,7 @@
     {
       "items":{
 		  "item": "ars_nouveau:source_gem",
-          "quantity": 64
+          "count": 64
 	  }
     }
   ]
