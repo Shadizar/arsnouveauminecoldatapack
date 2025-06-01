@@ -1,0 +1,24 @@
+{
+  "type" : "recipe",
+  "crafter": "sawmill_crafting",
+  "inputs": [
+    {
+        "id" : "minecraft:lectern",
+        "count": 1
+    },
+    {
+        "id" : "minecraft:chest",
+        "count": 4
+    },
+    {
+        "id" : "ars_nouveau:source_gem",
+        "count": 8
+    }
+  ],
+  "result": {
+	  "id": "ars_nouveau:storage_lectern",
+      "count": 1},
+  "intermediate" : "minecraft:air",
+  "research-id": "archwoodcollective:arsnouveau/arscraftingrecipes",
+  "min-building-level": 2
+}

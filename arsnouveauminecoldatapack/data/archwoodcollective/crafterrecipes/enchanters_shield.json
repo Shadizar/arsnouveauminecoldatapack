@@ -1,0 +1,28 @@
+{
+  "type" : "recipe",
+  "crafter": "blacksmith_crafting",
+  "inputs": [
+    {
+        "id" : "minecraft:shield",
+        "count": 1
+    },
+    {
+        "id" : "minecraft:gold_block",
+        "count": 2
+    },
+    {
+        "id" : "ars_nouveau:source_gem_block",
+        "count": 2
+    },
+    {
+        "id" : "ars_nouveau:source_gem",
+        "count": 8
+    }
+  ],
+  "result": {
+	  "id": "ars_nouveau:enchanters_shield",
+      "count": 1},
+  "intermediate" : "minecraft:air",
+  "research-id": "archwoodcollective:arsnouveau/arscraftingrecipes",
+  "min-building-level": 3
+}

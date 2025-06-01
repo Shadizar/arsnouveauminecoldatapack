@@ -1,0 +1,14 @@
+{
+"replace": false,
+"values": [
+    "ars_nouveau:ritual_awakening",
+	"ars_nouveau:ritual_conjure_island_plains",
+	"ars_nouveau:ritual_conjure_island_desert",
+	"ars_nouveau:ritual_harvest",
+	"ars_nouveau:ritual_restoration",
+	"ars_nouveau:ritual_forestation",
+	"ars_nouveau:ritual_flowering",
+	"ars_nouveau:ritual_fertility",
+	"ars_nouveau:ritual_overgrowth"
+  ]
+}

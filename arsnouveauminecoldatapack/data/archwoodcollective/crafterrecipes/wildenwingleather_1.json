@@ -1,0 +1,16 @@
+{
+  "type" : "recipe",
+  "crafter": "fletcher_custom",
+  "inputs": [
+    {
+        "id" : "ars_nouveau:wilden_wing",
+        "count": 1
+    }
+  ],
+  "result": {
+	  "id": "minecraft:leather",
+      "count": 1},
+  "intermediate" : "minecraft:air",
+  "research-id" : "archwoodcollective:arsnouveau/arswildenprocessing",
+  "not-research-id" : "archwoodcollective:arsnouveau/arsadvancedwildenprocessing"
+}

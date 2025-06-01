@@ -1,0 +1,11 @@
+{
+"replace": false,
+"values": [
+    "ars_nouveau:novice_spell_book",
+	"ars_nouveau:sourcestone_grate",
+	"ars_nouveau:smooth_sourcestone_grate",
+	"ars_nouveau:ritual_disintegration",
+	"ars_nouveau:ritual_gravity",
+    "ars_nouveau:ritual_brazier"
+  ]
+}
