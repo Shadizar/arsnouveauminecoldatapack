@@ -1,0 +1,23 @@
+{
+  "type" : "recipe",
+  "crafter": "farmer_crafting",
+  "inputs": [
+    {
+        "id" : "minecraft:spore_blossom",
+        "count": 1
+    },
+    {
+        "id" : "ars_nouveau:source_gem",
+        "count": 4
+    },
+    {
+        "id" : "ars_nouveau:conjuration_essence",
+        "count": 1
+    }
+  ],
+  "result": {
+	  "id": "ars_nouveau:decor_blossom",
+      "count": 1},
+  "intermediate" : "minecraft:air",
+  "min-building-level": 2
+}
