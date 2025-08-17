@@ -1,7 +1,6 @@
 {
 "replace": false,
 "values": [
-    "ars_nouveau:source_gem_block",
 	"#archwoodcollective:do_stone",
 	"#minecraft:leaves/archwood_leaves"
   ]
