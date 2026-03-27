@@ -1,6 +1,6 @@
 {
   "type" : "recipe",
-  "crafter": "fletcher_custom",
+  "crafter": "fletcher_crafting",
   "inputs": [
     {
         "id" : "ars_nouveau:wilden_wing",
