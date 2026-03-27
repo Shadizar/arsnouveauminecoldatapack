@@ -1,7 +1,9 @@
 {
   "replace": false,
   "values": [
-    "ars_nouveau:gilded_sourcestone_alternating",
+    "minecraft:cobblestone",
+	"ars_nouveau:archwood_stairs",
+	"ars_nouveau:gilded_sourcestone_alternating",
     "ars_nouveau:gilded_sourcestone_alternating_slab",
     "ars_nouveau:gilded_sourcestone_alternating_stairs",
     "ars_nouveau:gilded_sourcestone_basketweave",
