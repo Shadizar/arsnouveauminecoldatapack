@@ -5,12 +5,10 @@
   "researchLevel": 2,
   "subtitle": "Improves processing wilden wings and horns into leather and bonemeal.",
   "icon": "ars_nouveau:wilden_wing",
-  "requirements": [
+  "costs": [
     {
-      "items":{
-		  "item": "ars_nouveau:source_gem",
-          "count": 64
-	  }
+		"item": "ars_nouveau:source_gem",
+        "count": 64
     }
   ]
 }

@@ -4,12 +4,10 @@
   "researchLevel": 1,
   "subtitle": "Unlocks automatically-learned Ars Nouveau crafting recipes. Really only exists to keep from cluttering your recipes if you are not doing an Ars Nouveau style. Adds several items to crafters, which can overwhelm low level crafters recipe quota.",
   "icon": "ars_nouveau:relay",
-  "requirements": [
+  "costs": [
     {
-      "items":{
-		  "item": "ars_nouveau:source_gem",
-          "count": 4
-	  }
+        "item": "ars_nouveau:source_gem",
+        "count": 4
     }
   ]
 }
