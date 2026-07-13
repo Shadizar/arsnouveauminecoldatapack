@@ -1,0 +1,23 @@
+{
+  "values": [
+    "#ars_nouveau:blazing_logs",
+    "#ars_nouveau:vexing_logs",
+    "#ars_nouveau:cascading_logs",
+    "#ars_nouveau:flourishing_logs",
+	"#ars_nouveau:magic_saplings",
+    "ars_nouveau:archwood_planks",
+    "ars_nouveau:archwood_button",
+    "ars_nouveau:archwood_stairs",
+    "ars_nouveau:archwood_slab",
+    "ars_nouveau:archwood_fence_gate",
+    "ars_nouveau:archwood_fence",
+    "ars_nouveau:archwood_trapdoor",
+    "ars_nouveau:archwood_pressure_plate",
+    "ars_nouveau:archwood_door",
+    "ars_nouveau:archwood_sign",
+    "ars_nouveau:source_jar",
+    "ars_nouveau:sourceberry_bush",
+    "ars_nouveau:mob_jar",
+    "ars_nouveau:sourceberry_sack"
+  ]
+}
